@@ -1,6 +1,8 @@
-# template-vanilla
+# js-basic-refactoring-variables-names
 
-## Text
+## Rename variables
+- Create more readable names for variable
+- Fix other errors here
 
 ## We have a problem with loading script and access to html element due loading. Please, fix the place of script in html file
 
